@@ -41,7 +41,9 @@ code & data [adaptive-federated-learning](https://github.com/IBM/adaptive-federa
 ## Poisoning Attacks
 1. **Data Poisoning Attacks Against Federated Learning Systems.** Vale Tolpegin, Stacey Truex, Mehmet Emre Gursoy, Ling Liu, ESORICS 2020 [p1](https://dl.acm.org/doi/10.1007/978-3-030-58951-6_24)
 2. **Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses for Federated Learning.** Shejwalkar, Virat, and Amir Houmansadr. NDSS 2021 [p2](https://www.ndss-symposium.org/ndss-paper/manipulating-the-byzantine-optimizing-model-poisoning-attacks-and-defenses-for-federated-learning/)
-
+3. **MPAF: Model Poisoning Attacks to Federated Learning based on Fake Clients.** Xiaoyu Cao, Neil Zhenqiang Gong. CVPR22 - FedVision workshop.
+4. **Poisoning Attacks in Federated Learning: A Survey** Geming Xia, Jian Chen, Chaodong Yu, Jun Ma. IEEE Access Vol.11
+5. **Model Poisoning Attacks to Federated Learning via Multi-Round Consistency**
 
 ## Defense against Poisoning Attacks
 1. **Byzantine-Robust Decentralized Federated Learning.**, Fang, Minghong, Zifan Zhang, Prashant Khanduri, Songtao Lu, Yuchen Liu, and Neil Gong, CCS ’24 [p1](https://arxiv.org/abs/2406.10416).
